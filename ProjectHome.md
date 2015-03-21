@@ -1,0 +1,1 @@
+This project reads from the keypad, writes the keys to the LCD, and blinks an LED at varying rates.
